@@ -1,0 +1,81 @@
+*  {box-sizing: border-box;
+color : white;
+}
+
+#right { 
+    display:inline-grid;
+border :1px  solid black; 
+ width: 69% ;
+ height:100%;
+ background-image: url("https://image.ibb.co/cO9Lxq/login-bg.jpg");
+margin:0;
+}
+
+#left
+{
+    display: inline-grid;
+    background-color: grey;
+ border: 1px solid black;
+width: 30.5%;
+height: 100%;
+margin:0;
+}
+.logo
+{
+ text-align: center;
+ margin-bottom: 50px;
+}
+form
+{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#links
+{
+    margin-bottom: 50px;
+
+    text-align: center;
+}
+.secondary-btn
+{
+    text-align: center;
+    border:1px solid white;
+    height: 50px;
+    width: 80%;
+    background-color: grey;
+    color: white;
+    margin-bottom: 50px;
+    
+
+}
+#main-footer{
+    margin-bottom: 50px;
+
+    text-align: center;
+}
+.showcase-text
+{
+    text-align: center;
+    color:white;
+
+}
+#showcase-content
+{
+    padding-top: 300px;
+  padding-bottom: 300px;
+} 
+.text-input
+{
+    margin-left: 30px;
+    margin-right: 30px;
+    width:80%
+}
+
+.primary-btn
+{
+    background-color: rgb(34, 73, 202);
+    width: 70%;
+    height: 50px;
+}
+label{text-align: left;}
